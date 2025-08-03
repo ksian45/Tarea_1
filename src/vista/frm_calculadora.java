@@ -29,7 +29,7 @@ import javax.swing.JTextArea;
 import javax.swing.KeyStroke;
 
 public class frm_calculadora extends javax.swing.JFrame {
-    private static final String HISTORIAL_FILE = "historial_calculadora.txt";
+    private static final String HISTORIAL_FILE = "bitacoraCalculadora";
     public float num1;
     public float num2;
     public String ope;
